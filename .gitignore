@@ -1,0 +1,5 @@
+# Godot 4+ specific ignores
+.godot/
+addons/
+wakatime_logo.jpg
+wakatime_logo.jpg.import
